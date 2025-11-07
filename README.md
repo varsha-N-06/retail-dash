@@ -36,7 +36,7 @@ The dataset includes details about:
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Screenshot](Dashboard_Screenshot.png)  
+![Dashboard Screenshot](Dashboard_Screenshot.png.png)  
 
 ---
 
